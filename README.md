@@ -58,9 +58,6 @@ The project utilizes a customer churn dataset with the following key attributes:
 3. Load the dataset (`churn-dataset.xlsx`).
 4. Explore the dashboards to gain insights into churn patterns and risk analysis.
 
-## Screenshots
-Include visual previews of the dashboards for better understanding. 
-
 ## Future Enhancements
 - Add predictive analytics using machine learning models.
 - Integrate live data sources for real-time analysis.
